@@ -1,6 +1,6 @@
 # Roman-Number-Converter
-<h2>Description</h2>
-Project consists of a simple text-based adventure game script that gives the user an rpg experience through text. Three buttons are used to navigate through the game which progresses the user throughout the choices they make in the game.
+<h2>Short Description</h2>
+Project consists of a numeral converter that converts arabic numbers ranging from 1 - 3999 into roman numerals.
 <br />
 
 
