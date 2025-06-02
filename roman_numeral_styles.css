@@ -17,7 +17,10 @@
 
 
 body {
+  background-image: url("https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_1200,h_630,g_auto/dpr_auto/f_auto/q_auto:eco/v1/ancient-rome-roads-gettyimages-122210617?_a=BAVAZGDX0");
   background-color: var(--dark-green-grey);
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
@@ -26,7 +29,13 @@ h1 {
   font-style: italic;
   text-align: center;
   padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
   color: white;
+  background-color: var(--dark-green-grey);
+  border-radius: 1rem 0 1rem 0;
+  
 }
 
 #roman-nums {
