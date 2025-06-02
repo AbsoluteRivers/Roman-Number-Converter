@@ -19,6 +19,6 @@ Project consists of a numeral converter that converts arabic numbers ranging fro
 <h2>Visual Representation of Application</h2>
 <p align="center">
 <br/>
-<img src="https://imgur.com/8EpnFOH" height="80%" width="80%" alt="Roman Number Converter"/>
+<img src="https://imgur.com/a/XVNw6LF" height="80%" width="80%" alt="Roman Number Converter"/>
 <br />
 </p>
