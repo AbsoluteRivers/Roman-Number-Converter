@@ -15,3 +15,10 @@ Project consists of a numeral converter that converts arabic numbers ranging fro
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+
+<h2>Visual Representation of Application</h2>
+<p align="center">
+<br/>
+<img src="https://imgur.com/a/XVNw6LF" height="80%" width="80%" alt="Task Management App"/>
+<br />
+</p>
